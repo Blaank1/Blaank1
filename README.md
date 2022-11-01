@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blaank1
-- 👀 I’m interested in game Development and cybersecurity
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in front end web dev.
+- 🌱 I’m currently learning HTML CSS JS
 - 💞️ I’m looking to collaborate on a small project
 - 📫 How to reach me here on GitHub
 -
