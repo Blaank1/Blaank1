@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blaank1
-- 👀 I’m interested in front end web dev.
-- 🌱 I’m currently learning HTML CSS JS
+- 👀 I’m a software devloper in progress.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on a small project
 - 📫 How to reach me here on GitHub
 -
